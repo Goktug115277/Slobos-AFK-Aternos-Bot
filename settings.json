@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yazdinguslari.aternos.me",
-    "port": 57050,
+    "ip": "trovixsmp.aternos.me",
+    "port": 33276,
     "version": "",
     "try-creative": false
   },
